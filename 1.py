@@ -6,4 +6,9 @@ print(4)
 print(4)
 print(4)
 print(4)
-12
+<<<<<<< HEAD
+print(4)
+=======
+print(4)
+print(1000000000000)
+>>>>>>> testing
